@@ -1,0 +1,39 @@
+container {
+    width: 500px;
+    clear: both;
+    border-style: solid;
+    background-color: lightgray;
+    padding: 25px 50px 25px 50px;
+}
+
+.container input {
+    width: 100%;
+    clear: both;
+    border-radius: 35px;
+    border: 2px solid gray;
+
+}
+
+.jumbotron {
+  background-color: black;
+  color: black;
+
+}
+
+body {
+  background-color: #CBE2F6;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: red;
+}
+
+body {
+  margin: 50px 0px auto auto;
+  text-align: center;
+}
